@@ -1,0 +1,11 @@
+#Dominican Republic
+YUNA VISION 10,http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
+Bonao TV Canal 12,http://ss1.domint.net:2226/btv_str/bonao/chunklist.m3u8
+Comunion TV,http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8
+DIGITAL VISION 63,http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+La Voz de Maria,https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w567330199.m3u8
+Luna TV,http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
+Microvision 10,http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+ONDA TV CANAL 10,http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+Ready TV,http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+Romana TV Canal 42,http://tv.romanatv42.com/hls/live.m3u8

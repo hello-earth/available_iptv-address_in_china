@@ -1,0 +1,6 @@
+#Iceland
+Althingi,https://213-167-154-115.netvarp.is/althingi_600/tracks-v1a1/rewind-86400.m3u8
+RUV 2,http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
+Sport TV 4,https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+Sport TV 5,https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+Sport TV 6,https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8

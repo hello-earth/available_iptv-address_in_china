@@ -1,0 +1,5 @@
+#Jordan
+Al Mamlaka TV,https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+Al Mamlaka TV,https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+Al Mamlaka TV,https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8
+Noursat Jordan,https://svs.itworkscdn.net/nour4satlive/livestream/chunklist.m3u8

@@ -1,0 +1,31 @@
+#Ukraine
+Рада,http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+Херсон Плюс,http://46.175.163.130/ks_plus/index.m3u8
+ЧП.iнфо,http://109.68.40.67/life/magnolia_3/index.m3u8
+Прямий,http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+Рада,http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+Херсон Плюс,http://46.175.163.130/ks_plus/index.m3u8
+ЧП.iнфо,http://109.68.40.67/life/magnolia_3/index.m3u8
+Lale,http://stream.atr.ua/lale//live/index.m3u8
+MostVideo TV,http://w4.mostvideo.tv/heltv/ch2.m3u8
+TV7+ (Хмельницький),http://tv7plus.com/hls/tv7.m3u8
+UATV,https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+Z (Запорожье),https://stream.ztv.zp.ua/hls/live.m3u8
+Возрождение,http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+Донеччина TV,http://stream.dn.ua/hls/stream.m3u8
+Крым 24,http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+М1,http://live.m2.tv/hls/stream.m3u8
+М2,http://live.m2.tv/hls3/stream.m3u8
+ПравдаТУТ,http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+100% News,http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
+24 канал,http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+4 канал,http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+4 канал,http://95.67.106.10/hls/nta_ua_low/index.m3u8
+4 канал,http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+Antenna,http://streamer.antenna.com.ua/hls/antenna.m3u8
+HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+Iнтер,https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+K1,http://109.68.40.67:80/life/k1_3/index.m3u8

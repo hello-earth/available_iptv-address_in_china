@@ -1,0 +1,4 @@
+#Qatar
+Al Rayyan,https://alrayyan1live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b1428000.m3u8
+Al Rayyan 2,https://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/chunklist_b1428000.m3u8
+beIN Sports 1 Arabic,http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8

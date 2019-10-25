@@ -1,0 +1,2 @@
+#Bahamas
+ZNS Network,https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8

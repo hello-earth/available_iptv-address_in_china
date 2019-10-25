@@ -1,0 +1,21 @@
+#Brazil
+TV Aparecida,http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+TV Gidoes,http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+TV Verdes Campos,https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+Agro Canal,https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist.m3u8
+Canal Rural,https://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist.m3u8
+Canal Saúde,https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist.m3u8
+CBTV Internacional,https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
+Novo Tempo,http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+RCI,http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
+Rede Brasil,https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
+RedeTV!,http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+RedeTV!,http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+RedeTV!,http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+RedeTV!,http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+RedeTV!,http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+RedeTV!,https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+SBT,http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+SBT,http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+SBT,http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+SBT,http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8

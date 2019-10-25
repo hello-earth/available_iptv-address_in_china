@@ -1,0 +1,4 @@
+#Cyprus
+Ada TV,https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist_w326024869.m3u8
+Kanal T Kibris,https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/chunklist.m3u8
+Sat7 Kids,http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8

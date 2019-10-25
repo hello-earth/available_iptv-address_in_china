@@ -1,0 +1,7 @@
+#Malta
+Discover Malta,http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
+Drama,http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
+ITV Shopping Channel,http://www.evoiptv.com/hlsitv/hlsitv.m3u8
+MVTV,http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+MVTV,http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8?fluxustv.m3u8
+River,http://www.evoiptv.com/hlsriver/hlsriver.m3u8

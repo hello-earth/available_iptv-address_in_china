@@ -1,0 +1,4 @@
+#Pakistan
+JK 24x7 News,http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
+POP Kids,https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+PTV Home,http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8

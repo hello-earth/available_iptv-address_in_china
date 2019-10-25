@@ -1,0 +1,42 @@
+#Russia
+Юрган,http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+Юрган,http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+РЖД ТВ,http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+Россия 1,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+Россия 1 (+6),http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+Россия К,http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+Саратов 24,http://46.165.235.6:8083/hls/saratov24/index.m3u8
+Телеканал 86 (Сургут),https://sitv.ru/hls/s861024.m3u8
+RU.TV,https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+VIVA Russia,http://85.143.202.116/hls/viva.m3u8
+Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+Астрахань.Ru Sport,http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
+Астрахань.Ru Sport,http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+Астрахань.Ru TV,http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+Астрахань.Ru TV,http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+Астрахань.Ru TV,http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+Общественное Независимое Телевидение,http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+Осетия-Ирыстон,http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/index.m3u8
+Первый крымский,http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+Радио Шансон,http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+РГВК Дагестан,http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
+Афонтово (Красноярск),http://xstream.afontovo.ru/afontovo_sd.m3u8
+Барс (Иваново),http://iptv.barstv.ru/hls/stream1.m3u8
+Башкортостан 24,http://live.gtrk.tv/720/b24-720.m3u8
+Евразия (Орск),http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+Илли,http://cdn.illi.tv/illitv_2000/index.m3u8
+Кварц ТВ (Подольск),http://109.94.1.3:8080/Infokanal/video.m3u8
+360°,http://360tv-cdn.facecast.io/360/channel2/1.m3u8
+360° Новости,http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+8 Канал,http://176.99.110.252/stream8/playlist.m3u8
+Luxury,http://nano.teleservice.su:8080/hls/luxury.m3u8
+MTVmix (Уфа),http://81.30.182.82:18092/hls/live.m3u8
+Луч (Пуровск),http://live.trk-luch.ru/hls/live_hi.m3u8
+Мир Белагорья,http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+Мир Белогорья,http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+Московский образовательный,http://retc.educom.ru/mosobrtv/tv1/index.m3u8

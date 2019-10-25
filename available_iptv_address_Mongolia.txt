@@ -1,0 +1,2 @@
+#Mongolia
+Монголын Мэдээ,http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8

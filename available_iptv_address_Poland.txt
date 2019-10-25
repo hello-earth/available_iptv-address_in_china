@@ -1,0 +1,5 @@
+#Poland
+Hope Channel,http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+Telewizja Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+Telewizja Republika,https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+WTK,http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8

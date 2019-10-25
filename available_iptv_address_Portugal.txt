@@ -1,0 +1,8 @@
+#Portugal
+Caca Vision,https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+FM O Dia TV,http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+Sobrenatural TV,http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
+SPORT TV 2,https://sportbar.biz/lba/123/g1/sport2port.m3u8
+SPORT TV 3,https://sportbar.biz/lba/123/g2/pt3sport.m3u8
+SPORT TV 5,https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+TV Fátima,https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8

@@ -1,0 +1,5 @@
+#Switzerland
+LFM TV,https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
+Tele M1 HD,http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+TeleBarn,http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+TeleTicino,https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8

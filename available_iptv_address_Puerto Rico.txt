@@ -1,0 +1,4 @@
+#Puerto Rico
+Canal 13 Puerto Rico,http://live247tv.com:1935/worodtcanal13/worodtcanal13/chunklist_w333080128.m3u8
+CDM International,https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w815796812.m3u8
+CDM TV,http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8

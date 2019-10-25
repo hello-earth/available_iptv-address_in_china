@@ -1,0 +1,2 @@
+#Lithuania
+TV8,https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8

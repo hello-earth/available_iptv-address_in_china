@@ -1,0 +1,6 @@
+#Bolivia
+Bolivia TV Deportes 7.2,https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
+Católica TV,http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
+Red PAT La Paz,http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
+RTP,http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+Unitel,http://136.243.3.70:1935/Unitel/Unitel/chunklist.m3u8

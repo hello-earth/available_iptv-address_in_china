@@ -1,0 +1,10 @@
+#Iraq
+Al Rasheed TV,http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+Astera TV,http://cdn.teradek.live:1935/live/astera/chunklist.m3u8
+AVA TV,http://51.15.236.137/hls/stream.m3u8
+Dua Channel,http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w609791274.m3u8
+Imam Hussein TV 2 Arabic,https://ar.imamhusseintv.com/live/ih201/index.m3u8
+KurdMax Music,http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+KurdMax Papule,http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+Kurdsat,https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+Speda TV,http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8

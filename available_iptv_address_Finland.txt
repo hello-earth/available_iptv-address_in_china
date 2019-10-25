@@ -1,0 +1,2 @@
+#Finland
+Taivas TV7,http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8

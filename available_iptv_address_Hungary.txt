@@ -1,0 +1,7 @@
+#Hungary
+1 Music Channel,http://92.249.129.152/stream/1music.m3u8
+1 Music Channel,http://stream.1music.hu/stream/1music.m3u8
+Bonum TV,https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+Fehérvár TV,http://cloudfront44.lexanetwork.com:1730/HDE016/hls/livestream.sdp.m3u8
+Pannon RTV,http://79.172.194.189/hls/pannonrtv/live.m3u8
+Pannon RTV,https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8

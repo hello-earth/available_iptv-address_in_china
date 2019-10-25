@@ -1,0 +1,7 @@
+#Latvia
+Kanāls 2,https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20001=96000-video=2200000.m3u8
+LNT,https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=96000-video=2200000.m3u8
+LTV1,https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20001=96000-video=2200000.m3u8
+LTV7,https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20000=96000-video=2200000.m3u8
+TV6,https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20001=96000-video=2200000.m3u8
+TVNET,http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8

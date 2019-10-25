@@ -1,0 +1,14 @@
+#Chile
+Sextavisión,https://590c5dc5c3271.streamlock.net/carlos107/carlos107/chunklist_w1171406684.m3u8
+UMAG TV,http://cl.origin.grupoz.cl:1935/tser5/live/chunklist_w853101429.m3u8
+AE Radio Concepcion,https://tls.cdnz.cl/aeradio/live/chunklist_w1654406934.m3u8
+Cachipum,http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
+Cachipum,http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
+Canal 11 Aysen,https://v2.tustreaming.cl/canal11aysen/live1/tracks-v1a1/mono.m3u8
+CDO,http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+CDO,http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
+EmolTv,https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+Gracia TV Internacional,https://video.mediostream.cl/graciatv/live1/tracks-v1a1/mono.m3u8
+Gracia TV Nacional,https://v2.tustreaming.cl/graciatv/live1/tracks-v1a1/mono.m3u8
+Nuevo Tiempo,http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b4128000_slpor.m3u8
+Portalfoxmix,http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8

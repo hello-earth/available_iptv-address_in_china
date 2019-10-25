@@ -1,0 +1,12 @@
+#United Kingdom
+Ahlulbayt TV,http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+BBC News,https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
+BT Sport 2,https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+Gemporia,https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+Keep It Country TV,http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
+Mafa Shortfilm,https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
+Only Motors,https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+Rathergood Radio,https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
+Sheffield TV,http://tv.sheffieldlive.org/hls/main.m3u8
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
+Takbeer TV,http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8

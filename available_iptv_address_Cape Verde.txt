@@ -1,0 +1,2 @@
+#Cape Verde
+TCV,http://videos.nosi.cv/tcvi/smil:tcvilive.smil/chunklist_w603066147_b25128000_sleng.m3u8

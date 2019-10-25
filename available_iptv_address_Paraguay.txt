@@ -1,0 +1,2 @@
+#Paraguay
+RPC,http://174.138.118.252/live/canal13stream_src.m3u8

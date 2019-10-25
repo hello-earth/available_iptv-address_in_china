@@ -1,0 +1,3 @@
+#Kuwait
+KTV Ethraa,https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
+KTV Plus,https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8

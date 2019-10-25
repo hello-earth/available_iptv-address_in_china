@@ -1,0 +1,2 @@
+#Senegal
+A2i TV Musique,http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8

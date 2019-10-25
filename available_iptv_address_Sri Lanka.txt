@@ -1,0 +1,2 @@
+#Sri Lanka
+Vendharm TV,http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8

@@ -1,0 +1,10 @@
+#Japan
+Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1180.m3u8
+NHK World Japan,https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+NHK World Japan,https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_2100.m3u8
+NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
+Tokyo - Narita Airport,http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+日本QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8

@@ -1,0 +1,17 @@
+#Albania
+Apollon TV,http://185.80.224.14:8095/hls/stream.m3u8
+EUROAL,http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+Peace TV,http://82.114.67.178:8081/hls/PeaceTV.m3u8
+RTSH 1 HD,http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+RTSH 2 HD,http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+RTSH 24,http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+RTSH 3,http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+RTSH Femije,http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+RTSH Film,http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+RTSH Muzike,http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+RTSH Plus,http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+RTSH Shqip,http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+RTSH Shqip,http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+RTSH Sport,http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+RTV Pendimi,http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+Supersport 3,https://sportbar.biz/lba/123/g8/albaniasport3.m3u8

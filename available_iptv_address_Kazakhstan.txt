@@ -1,0 +1,9 @@
+#Kazakhstan
+7 канал,http://78.40.108.218/7channel/index.m3u8
+Aqtóbe,http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
+Jambyl,http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
+Kazakh TV (RU),http://kazakhtvru.ultraiptv.com/live_ru/playlist1/index.m3u8
+Qostanai,http://onrez.kaztrk.kz/regional/kostanaytv/index.m3u8
+Semei,http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+Setanta Казахстан,https://sportbar.biz/lba/123/g5/setqz.m3u8
+Tamasha,https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8

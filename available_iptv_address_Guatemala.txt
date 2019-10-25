@@ -1,0 +1,3 @@
+#Guatemala
+Antigua Sports,http://143.208.59.12:1935/AntiguaSports/myStream/chunklist.m3u8
+Canal Antigua,http://143.208.59.12:1935/CanalAntigua/myStream/chunklist.m3u8

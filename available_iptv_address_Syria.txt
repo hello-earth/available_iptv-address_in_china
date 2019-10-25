@@ -1,0 +1,4 @@
+#Syria
+Sama TV,http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+Suboro TV,https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w1785562590_b900000.m3u8
+Syria TV,https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8

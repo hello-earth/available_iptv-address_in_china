@@ -1,0 +1,2 @@
+#Aruba
+Tele Aruba,http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8

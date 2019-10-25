@@ -1,0 +1,2 @@
+#Liechtenstein
+Mediashop TV,https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1921464012.m3u8

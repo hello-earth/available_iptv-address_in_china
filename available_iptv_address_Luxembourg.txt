@@ -1,0 +1,2 @@
+#Luxembourg
+Eldoradio TV,https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8

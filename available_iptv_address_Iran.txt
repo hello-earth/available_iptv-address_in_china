@@ -1,0 +1,19 @@
+#Iran
+iFilm Arabic,https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w1973189296_b944100_slen.m3u8
+iFilm Persian,https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmtv.smil/chunklist_w205801397_b944100_slen.m3u8
+Imam Hussein TV 1,http://live.imamhossaintv.com/live/ih103/index.m3u8
+Iran E Farda TV,https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB Nasim,https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB Ofogh,https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB TV1,https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB TV2,https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB TV4,https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+IRIB TV5,https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+Manoto,https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
+Manoto,https://d6kn5bcgzkd2t.cloudfront.net/live_2500.m3u8
+Manoto,https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
+Manoto,https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
+Manoto,https://dzll8dnb13thz.cloudfront.net/live_1500.m3u8
+Press TV,https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+Sahar Urdu,https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+Tin TV,https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8

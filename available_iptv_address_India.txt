@@ -1,0 +1,39 @@
+#India
+DD Punjabi,http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+Divya,http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+DSport,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+ABP Ananda,https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+ABP Asmita,https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+ABP Majha,https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+ABP News,https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+Analai Express HD,http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
+KTV,https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+Media One,https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+MN TV Music,http://mntv.livebox.co.in/musichls/live.m3u8
+Namdhari,https://namdhari.tv/live/sbs1.m3u8
+News 24,https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+TV100,http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+TVM,http://54.169.75.117:1935/live/livestream/chunklist.m3u8
+Vanavil Plus,http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+Vathanam TV,http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+Vendharm TV,http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+Vyas Higher Education Channel,http://playhls.media.nic.in/live/vyas/index.m3u8
+TV100,http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+TVM,http://54.169.75.117:1935/live/livestream/chunklist.m3u8
+Vanavil Plus,http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+Vathanam TV,http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+Vendharm TV,http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+Vendharm TV,http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+Vyas Higher Education Channel,http://playhls.media.nic.in/live/vyas/index.m3u8
+Prudent Media,https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
+Republic TV,https://repblicwld.s.llnwi.net/live/hls1/master_chunklist1.m3u8
+Suvarna News 24×7,https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+Tamil MTV,http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
+Thanthi TV,https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+IBC Comedy,https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+Inchara TV,http://inchara.livebox.co.in/incharahls/live.m3u8
+India Ahead,http://p-indiaahead.planetcast.in/03.m3u8
+India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+Janam TV,https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+Janataa TV,http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+JattTV,http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8

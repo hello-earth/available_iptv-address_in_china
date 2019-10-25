@@ -1,0 +1,2 @@
+#Ivory Coast
+RTI 2,https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist_w1505588093_b250000.m3u8

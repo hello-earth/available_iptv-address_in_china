@@ -1,0 +1,25 @@
+#Turkey
+TLC,https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+TLC,https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+Kral Pop,http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+Kral Pop,http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+Kral TV,http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+Kral TV,http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+Kral World,http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+Metro TV,http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
+Natural TV,https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+NTV,http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+NTV,https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+Star TV,http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+Star TV,https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+Ahi TV Kirsehir,http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
+Al-Zahra TV Turkic,https://live.al-zahratv.com/live/playlist2/index.m3u8
+Ben TV,http://kanalben.cubecdn.net/live/kanalben1.m3u8
+Buyuk Sivas TV,https://win1.yayin.com.tr/BuyukSivasTV/BuyukSivasTV/chunklist.m3u8
+CRI Turk Belgesel,http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
+Diyalog TV,http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
+Diyalog TV,https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
+DMAX,https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+ETV Manisa,https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
+EuroStar,http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+Ezidxan TV,http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8

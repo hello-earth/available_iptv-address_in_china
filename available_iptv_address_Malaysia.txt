@@ -1,0 +1,5 @@
+#Malaysia
+1 News,http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+Kah Lai Toi,http://61.58.60.230:9319/live/205.m3u8
+RTM 2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+RTM Parlimen,http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8

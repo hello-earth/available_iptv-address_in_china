@@ -1,0 +1,7 @@
+#Peru
+CTC TV Cusco,http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+Cultura 24 TV,http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+IPE,http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+Top Latino TV,http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+Top Latino TV,http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+Top Latino TV,http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8

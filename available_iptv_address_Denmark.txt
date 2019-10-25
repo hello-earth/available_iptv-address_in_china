@@ -1,0 +1,5 @@
+#Denmark
+TV 2 Fyn,https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8
+TV 2/Bornholm,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+TV Syd+,http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+TV Syd+,https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8
