@@ -81,7 +81,7 @@ def checktts(country_name, list):
             pass
 
     if (len(msg) > 50):
-        f = open(r"./available_iptv_address_%s.txt" % country_name, "a")
+        f = open(r"./channels/available_iptv_address_%s.txt" % country_name, "a")
         f.write(msg.encode('u8'))
         f.close()
 
@@ -95,7 +95,7 @@ def worker(country):
     if(th_pool_max==0):
         th_pool_max=1
     msg = "#" + country[0] + "\n"
-    f = open(r"./available_iptv_address_%s.txt" % country[0], "a")
+    f = open(r"./channels/available_iptv_address_%s.txt" % country[0], "a")
     f.write(msg.encode('u8'))
     f.close()
     threads = []
